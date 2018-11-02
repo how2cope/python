@@ -1,1 +1,1 @@
-### Git repo for python study materials and stuff
+### git repo for python study materials and stuff
